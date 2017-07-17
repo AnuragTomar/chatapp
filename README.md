@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 This is a starter template for [Ionic](http://ionicframework.com/docs/) projects.
 
 ## How to use this template
@@ -24,3 +25,6 @@ $ ionic cordova run ios
 
 Substitute ios for android if not on a Mac.
 
+=======
+# chatapp
+>>>>>>> 634fae939dee1604a1aea7041e05ea3e2c036d23
